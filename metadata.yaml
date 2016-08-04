@@ -1,0 +1,33 @@
+_repo: Mae-Madden_1829
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Miller, Joaquin
+    aliases:
+    - Miller, Cincinnatus Hiner
+    - Miller, Cincinnatus Heine
+    birthdate: 1837
+    deathdate: 1913
+    gutenberg_agent_id: '8840'
+    url: http://www.gutenberg.org/2009/agents/8840
+    wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
+creator:
+  author:
+    agent_name: Mason, Mary Murdoch
+    gutenberg_agent_id: '718'
+    url: http://www.gutenberg.org/2009/agents/718
+description: ''
+gutenberg_issued: '2006-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Italy -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Mae Madden
+url: http://www.gutenberg.org/ebooks/1829
