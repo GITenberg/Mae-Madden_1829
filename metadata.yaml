@@ -1,5 +1,5 @@
 _repo: Mae-Madden_1829
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Miller, Joaquin
@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '8840'
     url: http://www.gutenberg.org/2009/agents/8840
     wikipedia: http://en.wikipedia.org/wiki/Joaquin_Miller
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mason, Mary Murdoch
     gutenberg_agent_id: '718'
     url: http://www.gutenberg.org/2009/agents/718
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1829#Mae-Madden
 gutenberg_issued: '2006-05-12'
 gutenberg_type: Text
 identifiers:
